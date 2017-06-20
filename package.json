@@ -1,0 +1,19 @@
+{
+  "name": "cf-datastore",
+  "version": "0.0.1",
+  "description": "Shared module for datastore, util menthods for data access via APIs, and data model management",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/photusenigma/lerna-multi-repo-lib-datastore.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/photusenigma/lerna-multi-repo-lib-datastore/issues"
+  },
+  "homepage": "https://github.com/photusenigma/lerna-multi-repo-lib-datastore#readme"
+}
